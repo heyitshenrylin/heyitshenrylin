@@ -1,6 +1,5 @@
 ## 👨‍💻 Hey it's Henry Lin (He/They)
-- 📱 I'm an Android and Firmware Engineer at nVent
-- 🔭 I’m currently working on my AI Capstone course at uAlberta
+- 📱 I'm an Android and Firmware Developer at nVent
 
 
 - 📫 How to reach me: 
